@@ -1,0 +1,52 @@
+{
+    "workbench.colorTheme": "Serendipity Dark",
+    "sync.gist": "f5ee9c6d9bff52488744c6061c053fc0",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.quietSync": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "*.mdx": "mdx"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.exclude": {
+        "**/.next": true,
+        "**/.yarn": true,
+        "**/node_modules": true
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "git.confirmSync": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "'IBM Plex Mono' , 'monospace', monospace, 'Droid Sans Fallback'",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "python.defaultInterpreterPath": "/bin/python3",
+    "window.titleBarStyle": "custom",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 21,
+    "editor.letterSpacing": 0.5,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "normal",
+    "prettier.eslintIntegration": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 5,
+    "editor.cursorBlinking": "phase",
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 1
+}
